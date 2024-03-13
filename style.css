@@ -1,0 +1,16 @@
+H1{color: darkgray;
+}
+
+h2{color: gray;
+}
+
+h3{color: dimgray;
+}
+
+h1{text-align: center;
+}
+h2{text-align: right;
+}
+h3{border-color: hotpink;
+   border-width: 5px;
+}
