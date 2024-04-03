@@ -1,16 +1,11 @@
-h1{color: darkgray;
+h1{color: darkcyan;
 }
-
-h2{color: gray;
-}
-
-h3{color: dimgray;
-}
-
-h1{text-align: center;
-}
-h2{text-align: right;
-}
-h3{border-color: hotpink;
+h1{border-color: dodgerblue;
+   border-style: solid;
    border-width: 5px;
+}
+
+.parte01 {background-color: darkgray;
+}
+.parte02 {background-color: cadetblue;
 }
